@@ -1,16 +1,11 @@
 # weatherapp
+## 구글날씨 클린코딩(과제용)
 
-A new Flutter project.
 
-## Getting Started
+![Image](https://github.com/user-attachments/assets/26463ed8-c0e3-416a-9c3c-3ea0031940c6)
 
-This project is a starting point for a Flutter application.
+![Image](https://github.com/user-attachments/assets/e7c9a6c5-93ce-4c96-9924-ee4fd16bdc2b)
 
-A few resources to get you started if this is your first Flutter project:
+![Image](https://github.com/user-attachments/assets/884b12e8-1398-4760-83b3-64e3cc25d5d0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/bb54f0fe-be23-432d-a78a-df71a8d268dd)
